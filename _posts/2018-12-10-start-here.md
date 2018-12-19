@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Start Here"
+title: "Start Here (Artificial Intelligence (AI) Can Be Human)"
 date: 2018-12-10
 ---
 
