@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Response to 'Frankenstein'"
+title: "My Response to the Novel 'Frankenstein'"
 date: 2018-12-11
 ---
 
