@@ -2,6 +2,7 @@
 layout: post
 title: "My Response to the Novel 'Frankenstein'"
 date: 2018-12-11
+permalink: /frankenstein/
 ---
 
 # How *Frankenstein* Relates to My Topic
