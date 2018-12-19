@@ -14,6 +14,8 @@ To learn more about the project guidelines, please go to this site's ['About' pa
 My guiding question was **Can Artificial Intelligence Ever Be Human?**
 My response (and theme statement) is that **Artificial Intelligence Can Be Human**.
 
+Note: Artificial intelligence is usually abbreviated as *AI* (pronounced "ay"-"eye"). These terms will be used interchangeably throughout the site.
+
 In addition to blog posts, this project consists of two main parts.
 The first part of posts focuses on my responses to different resources, and the second part consists of material created by me to illustrate my comprehension.
 
