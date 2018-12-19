@@ -2,11 +2,12 @@
 layout: post
 title: "My Response to the Speech 'Artificial Intelligence: A Matter of Trust'"
 date: 2018-12-13
+permalink: /ai-matter-trust/
 ---
 
 # How the Speech *Artificial Intelligence: A Matter of Trust* Relates to My Topic
 
-This speech on artificial intelligence by Dr. Alan Finkel AO was delivered at the Committee for Economic Development of Australia (CEDA) Speech to a Public Event Lunch, in the Four Seasons Hotel, Sydney.
+[This speech](https://www.chiefscientist.gov.au/2018/05/speech-artificial-intelligence-a-matter-of-trust/) on artificial intelligence by Dr. Alan Finkel AO was delivered at the Committee for Economic Development of Australia (CEDA) Speech to a Public Event Lunch, in the Four Seasons Hotel, Sydney.
 In his speech, Dr. Finkel discussed whether society would trust artificial intelligence as much as it trusts other humans in society.
 Dr. Finkel elaborated by explaining that humans trust that they “wouldn’t be electrocuted by a faulty lamp, or cord, or socket (Finkel, 2018)” when they flick their light switches.
 Similarly, Dr. Finkel further explained that humans enter cars and trust that every component was serviced properly, and “that other drivers wouldn’t kill (Finkel, 2018)” them.
