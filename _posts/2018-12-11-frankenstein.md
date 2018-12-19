@@ -53,3 +53,11 @@ Had the De Lacey’s given the creature even the slightest chance, they may not 
 
 This is similar to artificial intelligence because there are many who are publicly opposed to advancing artificial intelligence, among other things, because they believe that too much artificial intelligence can lead to bad consequences.
 However, in response to that, too much of anything can lead to bad things occurring, and the best way for us as a society to deal with issues like this is to improve regulation and legislation, as well as redefine what it means to be human, either to explicitly include or not include artificial intelligence and other beings.
+
+# How the Author of *Frankenstein* Conveyed these Ideas to the Reader
+
+The author of Frankenstein, Mary Wollstonecraft Shelley, conveyed these ideas to the reader by showing how the creature created by Victor Frankenstein was shunned by society for his appearance, despite him being about to think and act like a regular human.
+
+Mary Wollstonecraft Shelley also crafted the novel Frankenstein in a way that inspired many conversations.
+She used the letters from Robert Walton to his sister in a way that kept the reader engaged. 
+Shelley also used imagery and the lack of imagery to her advantage, in order to portray the minimum amount of features of the creature required to picture it in the reader’s mind, while still allowing for the reader’s imaginations to run wild.
