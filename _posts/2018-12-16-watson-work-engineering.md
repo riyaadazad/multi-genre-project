@@ -2,11 +2,12 @@
 layout: post
 title: "My Response to the Video 'Watson at Work: Engineering'"
 date: 2018-12-16
+permalink: /watson-work-engineering/
 ---
 
 # How the Video *Watson at Work: Engineering* Relates to My Topic
 
-This video advertisement by International Business Machines Corporation embodies the idea that artificial intelligence can be human because it shows that Watson can definitely perform stereotypical human operations, such as recognizing when facilities are near to failing before they fail and scheduling repairs, which is exactly what is displayed in the video advertisement.
+[This video advertisement](https://www.ispot.tv/ad/wIha/ibm-watson-watson-at-work-engineering) by International Business Machines Corporation embodies the idea that artificial intelligence can be human because it shows that Watson can definitely perform stereotypical human operations, such as recognizing when facilities are near to failing before they fail and scheduling repairs, which is exactly what is displayed in the video advertisement.
 
 # How Viewing *Watson at Work: Engineering* Helped Me Understand My Topic Better
 
