@@ -80,4 +80,5 @@ International Business Machines Corporation. “Watson at Work: Engineering.” 
 
 ***Visual***
 
-IBM Watson Smarter Planet Print Advertisement. Squarespace, static1.squarespace.com/static/5374da9ce4b0aefc671b4754/55625148e4b0b17b14636b32/5562514ae4b0ebbd3eaa21a7/1432506698807/All_Vertical_SmarterPlanet_Layouts9.jpg?format=2500w. Accessed 18 December 2018.
+IBM Watson Smarter Planet Print Advertisement. Squarespace, static1.squarespace.com/static/5374da9ce4b0aefc671b4754/55625148e4b0b17b14
+636b32/5562514ae4b0ebbd3eaa21a7/1432506698807/All_Vertical_SmarterPlanet_Layouts9.jpg?format=2500w. Accessed 18 December 2018.
