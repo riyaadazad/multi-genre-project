@@ -5,4 +5,4 @@
 layout: home
 ---
 
-# ***Artificial Intelligence Can Be Human***
+# ***Artificial Intelligence (AI) Can Be Human***
