@@ -17,10 +17,10 @@ My response (and theme statement) is that **Artificial Intelligence Can Be Human
 In addition to blog posts, this project consists of two main parts.
 The first part of posts focuses on my responses to different resources, and the second part consists of material created by me to illustrate my comprehension.
 
-In the first section of posts, I will be answering three questions about each text I read or resource I viewed.
-The first question will be "*How does the source relate to your topic?*"
-The next question is "*How did reading or viewing the source help you understand your topic better?*"
-And the final question would be "*How did the creator of the text get these ideas across to the reader or viewer? (Here you will comment on how the creator of the piece may have used, for example, literary, visual, or dramatic techniques to get his/her point across.)*"
+In the first section of posts, I will be answering three questions about each text I read or resource I viewed:
+1. How does the source relate to your topic?
+2. How did reading or viewing the source help you understand your topic better?
+3. How did the creator of the text get these ideas across to the reader or viewer? *Here you will comment on how the creator of the piece may have used, for example, literary, visual, or dramatic techniques to get his/her point across.*
 
 
 Quick jump to the first part of posts:
@@ -31,6 +31,8 @@ Quick jump to the first part of posts:
 5. [Watson at Work: Aviation](#)
 6. [Watson at Work: Engineering](#)
 7. [IBM Watson: Smarter Planet](#)
+
+In the second section of posts, I will be preparing a "Dear Reader" letter, among other materials that are coming soon!
 
 Quick jump to the second part of posts:
 1. [Lorem](#)
