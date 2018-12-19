@@ -4,7 +4,11 @@ title: "My Response to the Visual 'Smarter Planet'"
 date: 2018-12-17
 ---
 
-# How the Video *Watson at Work: Engineering* Relates to My Topic
+![IBM Watson Advertisement](static1.squarespace.com/static/5374da9ce4b0aefc671b4754/55625148e4b0b17b14636b32/5562514ae4b0ebbd3eaa21a7/1432506698807/All_Vertical_SmarterPlanet_Layouts9.jpg?format=2500w)
+
+<img src="static1.squarespace.com/static/5374da9ce4b0aefc671b4754/55625148e4b0b17b14636b32/5562514ae4b0ebbd3eaa21a7/1432506698807/All_Vertical_SmarterPlanet_Layouts9.jpg?format=2500w" alt="IBM Watson Advertisement" />
+
+# How the Advertisement *Watson at Work: Engineering* Relates to My Topic
 
 This print advertisement for Watson by International Business Machines Corporation relates to my topic that artificial intelligence can be human because it can work with other scientists to develop cures for diseases.
 In this scenario, the artificial intelligence is replacing what would be a stereotypical human, which means that if it can replace a human, it probably can be considered human.
