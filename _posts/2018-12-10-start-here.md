@@ -6,11 +6,22 @@ date: 2018-12-10
 
 Welcome!
 
-I decided to present my project for Honors English 10 in an entirely different medium&mdash;the world wide web! This site is permalinked and will always live [here]({{ site.baseurl }}). I have chosen to organize this project as a weblog. To learn more about the project guidelines, please go to this site's ['About' page](about/).
+I decided to present my project for Honors English 10 in an entirely different medium&mdash;the world wide web!
+This site is permalinked and will always live [here]({{ site.baseurl }}).
+I have chosen to organize this project as a weblog.
+To learn more about the project guidelines, please go to this site's ['About' page](about/).
 
-My guiding question was **Can Artificial Intelligence Ever Be Human?** My response (and theme statement) is that **Artificial Intelligence Can Be Human**.
+My guiding question was **Can Artificial Intelligence Ever Be Human?**
+My response (and theme statement) is that **Artificial Intelligence Can Be Human**.
 
-In addition to blog posts, this project consists of two main parts. The first part of posts focuses on my responses to different resources, and the second part consists of material created by me to illustrate my comprehension.
+In addition to blog posts, this project consists of two main parts.
+The first part of posts focuses on my responses to different resources, and the second part consists of material created by me to illustrate my comprehension.
+
+In the first section of posts, I will be answering three questions about each text I read or resource I viewed.
+The first question will be "*How does the source relate to your topic?*"
+The next question is "*How did reading or viewing the source help you understand your topic better?*"
+And the final question would be "*How did the creator of the text get these ideas across to the reader or viewer? (Here you will comment on how the creator of the piece may have used, for example, literary, visual, or dramatic techniques to get his/her point across.)*"
+
 
 Quick jump to the first part of posts:
 1. [Frankenstein](#)
