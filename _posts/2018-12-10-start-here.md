@@ -16,6 +16,8 @@ My response (and theme statement) is that **Artificial Intelligence Can Be Human
 
 Note: Artificial intelligence is usually abbreviated as *AI* (pronounced "ay"-"eye"). These terms will be used interchangeably throughout the site.
 
+> [Side Note: Anything formatted like this is a block quotation.]
+
 In addition to blog posts, this project consists of two main parts.
 The first part of posts focuses on my responses to different resources, and the second part consists of material created by me to illustrate my comprehension.
 
@@ -26,13 +28,13 @@ In the first section of posts, I will be answering three questions about each te
 
 
 Quick jump to the first part of posts:
-1. [Frankenstein](#)
-2. [Poem](#)
-3. [Trust in AI](#)
-4. [I Am Watson](#)
-5. [Watson at Work: Aviation](#)
-6. [Watson at Work: Engineering](#)
-7. [IBM Watson: Smarter Planet](#)
+1. | Fiction 1: | [Frankenstein](#)
+2. | Fiction 2: | [Poem: 'Artificial Intelligence'](#)
+3. | Nonfiction: | [Speech: 'A Matter of Trust'](#)
+4. | Multimedia 1: | [I Am Watson](#)
+5. | Multimedia 2: | [Watson at Work: Aviation](#)
+6. | Multimedia 3: | [Watson at Work: Engineering](#)
+7. | Visual: | [IBM Watson: Smarter Planet](#)
 
 In the second section of posts, I will be preparing a "Dear Reader" letter, among other materials that are coming soon!
 
