@@ -48,3 +48,5 @@ I hope that you enjoy this project as much as I have enjoyed designing and devel
 Sincerely,
 
 ***Riyaad Azad***
+
+p.s. To learn more about me, visit my [personal website](https://riyaadazad.github.io/)!
