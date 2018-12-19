@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+# ***Artificial Intelligence Can Be Human***
