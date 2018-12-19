@@ -2,11 +2,12 @@
 layout: post
 title: "My Response to the Video 'Watson at Work: Aviation'"
 date: 2018-12-15
+permalink: /watson-work-aviation/
 ---
 
 # How the Video *Watson at Work: Aviation* Relates to My Topic
 
-This video advertisement by International Business Machines Corporation (IBM) relates to my topic because it shows how Watson, an artificially intelligent creation by the American company IBM, was able to perform stereotypical human tasks.
+[This video advertisement](https://www.ispot.tv/ad/wIpB/ibm-watson-watson-at-work-aviation) by International Business Machines Corporation (IBM) relates to my topic because it shows how Watson, an artificially intelligent creation by the American company IBM, was able to perform stereotypical human tasks.
 
 # How Viewing *Watson at Work: Aviation* Helped Me Understand My Topic Better
 
