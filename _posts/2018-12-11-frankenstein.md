@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Response to Frankenstein"
+title: "My Response to 'Frankenstein'"
 date: 2018-12-11
 ---
 
@@ -59,5 +59,5 @@ However, in response to that, too much of anything can lead to bad things occurr
 The author of Frankenstein, Mary Wollstonecraft Shelley, conveyed these ideas to the reader by showing how the creature created by Victor Frankenstein was shunned by society for his appearance, despite him being about to think and act like a regular human.
 
 Mary Wollstonecraft Shelley also crafted the novel Frankenstein in a way that inspired many conversations.
-She used the letters from Robert Walton to his sister in a way that kept the reader engaged. 
+She used the letters from Robert Walton to his sister in a way that kept the reader engaged.
 Shelley also used imagery and the lack of imagery to her advantage, in order to portray the minimum amount of features of the creature required to picture it in the reader’s mind, while still allowing for the reader’s imaginations to run wild.
