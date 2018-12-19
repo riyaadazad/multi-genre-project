@@ -54,3 +54,30 @@ Sincerely,
 ***Riyaad Azad***
 
 p.s. To learn more about me, visit my [personal website](https://riyaadazad.github.io/)!
+
+___
+<br>
+
+**References**
+
+***Fiction***
+
+Shelley, Mary Wollstonecraft Godwin. Frankenstein, or, The Modern Prometheus: the 1818 Text. Oxford University Press, 2018.
+
+Aparejo, Susan T. “Artificial Intelligence.” https://www.poemhunter.com/poem/artificial-intelligence-2/. Accessed 18 December 2018.
+
+***Nonfiction***
+
+Finkel, Alan. “Artificial Intelligence: A Matter of Trust.” Committee for Economic Development of Australia (CEDA) Speech to a Public Event Lunch. 8 May 2018, Four Seasons Hotel Sydney, Four Seasons Hotel Sydney, www.chiefscientist.gov.au/2018/05/speech-artificial-intelligence-a-matter-of-trust/.
+
+***Multimedia***
+
+International Business Machines Corporation. “I Am Watson.” 21 Dec. 2017, www.youtube.com/watch?v=d1oKVc5EfF0.
+
+International Business Machines Corporation. “Watson at Work: Aviation.” ISpot.tv, 2017, www.ispot.tv/ad/wIpB/ibm-watson-watson-at-work-aviation.
+
+International Business Machines Corporation. “Watson at Work: Engineering.” ISpot.tv, 2017, www.ispot.tv/ad/wIha/ibm-watson-watson-at-work-engineering.
+
+***Visual***
+
+IBM Watson Smarter Planet Print Advertisement. Squarespace, static1.squarespace.com/static/5374da9ce4b0aefc671b4754/55625148e4b0b17b14636b32/5562514ae4b0ebbd3eaa21a7/1432506698807/All_Vertical_SmarterPlanet_Layouts9.jpg?format=2500w. Accessed 18 December 2018.
