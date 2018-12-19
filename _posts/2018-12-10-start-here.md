@@ -28,13 +28,13 @@ In the first section of posts, I will be answering three questions about each te
 
 
 Quick jump to the first part of posts:
-1. | Fiction 1: | [Frankenstein](#)
-2. | Fiction 2: | [Poem: 'Artificial Intelligence'](#)
-3. | Nonfiction: | [Speech: 'A Matter of Trust'](#)
-4. | Multimedia 1: | [I Am Watson](#)
-5. | Multimedia 2: | [Watson at Work: Aviation](#)
-6. | Multimedia 3: | [Watson at Work: Engineering](#)
-7. | Visual: | [IBM Watson: Smarter Planet](#)
+1. Fiction 1: [Frankenstein](#)
+2. Fiction 2: [Poem: 'Artificial Intelligence'](#)
+3. Nonfiction: [Speech: 'A Matter of Trust'](#)
+4. Multimedia 1: [I Am Watson](#)
+5. Multimedia 2: [Watson at Work: Aviation](#)
+6. Multimedia 3: [Watson at Work: Engineering](#)
+7. Visual: [IBM Watson: Smarter Planet](#)
 
 In the second section of posts, I will be preparing a "Dear Reader" letter, among other materials that are coming soon!
 
