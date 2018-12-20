@@ -252,3 +252,14 @@ table {
     border: 1px solid $grey-color-light;
   }
 }
+
+/**
+* Make space between previous/next post links
+*/
+.previous {
+    float: left;
+}
+
+.next {
+    float: right;
+}
