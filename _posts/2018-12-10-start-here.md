@@ -39,12 +39,12 @@ Quick jump to the first part of posts:
 
 In the second section of posts, I will be preparing a "Dear Reader" letter, among other materials that are coming soon!
 
-Quick jump to the second part of posts:
+<!-- Quick jump to the second part of posts:
 1. [Lorem](#)
 2. [Ipsum](#)
 3. [Dolor](#)
 4. [Sit](#)
-5. [Amet](#)
+5. [Amet](#) -->
 
 This site is built using the super simple static website and blog site generator [Jekyll](https://jekyllrb.com/) and is hosted for free using [GitHub Pages](https://pages.github.com/). The source code for this website is completely open and lives at [this GiHub repository](https://github.com/riyaadazad/multi-genre-project).
 
