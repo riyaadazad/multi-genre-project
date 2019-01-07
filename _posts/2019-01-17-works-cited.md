@@ -5,8 +5,6 @@ date: 2019-01-17
 permalink: /works-cited/
 ---
 
-<p style="text-align:center">Works Cited</p>
-
 Aparejo, Susan T. “[Artificial Intelligence](https://www.poemhunter.com/poem/artificial-intelligence-2/).” Accessed 18 December 2018.
 
 Finkel, Alan. “[Artificial Intelligence: A Matter of Trust](https://www.chiefscientist.gov.au/2018/05/speech-artificial-intelligence-a-matter-of-trust/).” Committee for Economic Development of Australia (CEDA) Speech to a Public Event Lunch. 8 May 2018, Four Seasons Hotel Sydney, Four Seasons Hotel Sydney.
