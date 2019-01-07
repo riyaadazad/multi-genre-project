@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Works Cited"
+date: 2019-01-17
+permalink: /works-cited/
+---
+
 <p style="text-align:center">Works Cited</p>
 
 Aparejo, Susan T. “[Artificial Intelligence](https://www.poemhunter.com/poem/artificial-intelligence-2/).” Accessed 18 December 2018.
