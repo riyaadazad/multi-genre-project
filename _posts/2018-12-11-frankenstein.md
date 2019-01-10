@@ -5,6 +5,8 @@ date: 2018-12-11
 permalink: /frankenstein/
 ---
 
+![Frankenstein in a green car clip art cartoon](http://res.publicdomainfiles.com/pdf_view/75/13933689012992.png)
+
 # How *Frankenstein* Relates to My Topic
 
 I am investigating if artificial intelligence can ever be human.

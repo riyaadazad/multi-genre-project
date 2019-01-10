@@ -5,6 +5,8 @@ date: 2018-12-13
 permalink: /ai-matter-trust/
 ---
 
+![Image of the word trust](https://upload.wikimedia.org/wikipedia/commons/4/4f/Trust_%28466709245%29.jpg)
+
 # How the Speech *Artificial Intelligence: A Matter of Trust* Relates to My Topic
 
 [This speech](https://www.chiefscientist.gov.au/2018/05/speech-artificial-intelligence-a-matter-of-trust/) on artificial intelligence by Dr. Alan Finkel AO was delivered at the Committee for Economic Development of Australia (CEDA) Speech to a Public Event Lunch, in the Four Seasons Hotel, Sydney.
