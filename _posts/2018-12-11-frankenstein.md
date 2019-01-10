@@ -25,14 +25,22 @@ This is similar to much of today’s artificial intelligence, which exhibit beha
 However, it is not Alexa’s fault, because it was created as an assistant who listens for a wake word, which in this case, is the name of Amazon’s artificially intelligent assistant, “Alexa.”
 And once it hears the wake word, it is activated to listen for subsequent commands from the human using it.
 
+![Amazon's Alexa](https://c1.staticflickr.com/5/4716/39623894105_3df4f8e7df_b.jpg)
+
 On a side note, today’s main artificially intelligent assistants, such as Amazon’s Alexa, Google’s Google Assistant, Apple’s Siri, and Microsoft’s Cortana, have names, while in Frankenstein, the creature is only referred to as “the monster,” “the creature,” and other similar names, but is never referred to as “Victor Frankenstein’s creature” (where “creature” is a name).
 These artificial intelligences are known to learn from the human user by listening to how the user speaks its commands and this allows the artificially intelligent virtual assistant to better fulfill its role as a humanlike virtual assistant, much like Victor Frankenstein’s creature.
+
+![Google's Google Assistant](https://c1.staticflickr.com/4/3704/32335243084_ec325d7c3f.jpg)
 
 Eventually, Victor Frankenstein and his creature meet again, where Victor Frankenstein hears his creature’s story and is convinced to create a mate for the creature, as per its request.
 This shows how the creature, as well as artificial intelligence, is able to manipulate our actions by changing how we think.
 
+![Apple's Siri](https://c1.staticflickr.com/8/7335/26988770454_de070818c4_b.jpg)
+
 Sometime throughout the process of constructing another creature, Victor Frankenstein has a sudden influx and change of thought to not continue his work, as he is afraid of what could happen should the creatures mate and multiply.
 This symbolizes the thoughts of many opposed to advancing artificially intelligent technologies, who are worried about the vast and horrific consequences of too much artificial intelligence.
+
+![Microsoft's Cortana](https://upload.wikimedia.org/wikipedia/commons/b/b6/Cortana_%28%D0%9A%D0%BE%D1%80%D1%82%D0%B0%D0%BD%D0%B0%29.jpeg)
 
 After realizing that his creator has refused to fulfill his one request, the creature goes on a monstrous rampage, destroying everything Victor Frankenstein cares about.
 This represents what could happen with today’s artificial intelligence if it ever became stronger than humans.

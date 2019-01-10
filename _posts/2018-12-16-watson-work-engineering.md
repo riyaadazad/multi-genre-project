@@ -5,6 +5,8 @@ date: 2018-12-16
 permalink: /watson-work-engineering/
 ---
 
+<div style="position:relative;width:100%;padding-top:56.25%;padding-bottom:40px;"><iframe style="position:absolute;top:0;right:0;left:0;bottom:0;width:100%;height:100%;" src="https://www.ispot.tv/share/wIha" frameborder="0" scrolling="no" allowfullscreen=""></iframe></div>
+
 # How the Video *Watson at Work: Engineering* Relates to My Topic
 
 [This video advertisement](https://www.ispot.tv/ad/wIha/ibm-watson-watson-at-work-engineering) by International Business Machines Corporation embodies the idea that artificial intelligence can be human because it shows that Watson can definitely perform stereotypical human operations, such as recognizing when facilities are near to failing before they fail and scheduling repairs, which is exactly what is displayed in the video advertisement.
@@ -17,3 +19,5 @@ Viewing this video helped me to believe more that artificial intelligence can be
 
 International Business Machines Corporation used dramatically visual techniques to further their point about Watson being human.
 It showed Watson on a table in the elevator, as if it were a person standing in the elevator, and talking to the receptionist/secretary as if it were a person.
+
+![IBM Watson Jeopardy](https://upload.wikimedia.org/wikipedia/commons/3/3f/IBMWatson.jpg)

@@ -24,3 +24,5 @@ IBM used a literary question to invoke the thoughts of viewers, by asking if a h
 Some humans have almost infinite knowledge, but this is very rare.
 Watson, an artificial intelligence, on the other hand already has this knowledge, so it is like a human.
 Although artificial intelligence has the capability to know everything, some humans can also do this, but knowledge is ever increasing, just like the universe keeps increasing.
+
+![IBM Watson](https://upload.wikimedia.org/wikipedia/commons/2/22/IBM_Watson.PNG)

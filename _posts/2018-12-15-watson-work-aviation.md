@@ -5,6 +5,9 @@ date: 2018-12-15
 permalink: /watson-work-aviation/
 ---
 
+<div style="position:relative;width:100%;padding-top:56.25%;padding-bottom:40px;"><iframe style="position:absolute;top:0;right:0;left:0;bottom:0;width:100%;height:100%;" src="https://www.ispot.tv/share/wIpB" frameborder="0" scrolling="no" allowfullscreen=""></iframe></div>
+
+
 # How the Video *Watson at Work: Aviation* Relates to My Topic
 
 [This video advertisement](https://www.ispot.tv/ad/wIpB/ibm-watson-watson-at-work-aviation) by International Business Machines Corporation (IBM) relates to my topic because it shows how Watson, an artificially intelligent creation by the American company IBM, was able to perform stereotypical human tasks.
@@ -20,3 +23,5 @@ It showed how while the humans were on break, Watson was diligent and dedicated 
 International Business Machines Corporation used visual and somewhat dramatic techniques to get its point across to the viewer.
 It showed how while the stereotypical humans were on a break, artificial intelligence didn’t need breaks (except perhaps to charge) and could still perform human tasks.
 The drama in this video was that Watson displayed such human behavior, that when one of the workers asked it a question, Watson told him that they were not “on speaking terms,” which is a very human thing to say.
+
+![Watson playing Jeopardy](https://upload.wikimedia.org/wikipedia/commons/e/e6/Watson_Jeopardy_demo.jpg)
