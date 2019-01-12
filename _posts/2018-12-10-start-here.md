@@ -10,7 +10,6 @@ Welcome!
 I decided to present my project for Honors English 10 in an entirely different medium&mdash;the world wide web!
 This site is permalinked and will always live [here]({{ site.baseurl }}).
 I have chosen to organize this project as a weblog.
-To learn more about the project guidelines, please go to this site's ['About' page](about/).
 
 My guiding question was **Can Artificial Intelligence Ever Be Human?**
 My response (and theme statement) is that **Artificial Intelligence Can Be Human**.
