@@ -15,7 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Riyaad's Multi-Genre Project
 email: azad.riyaad@gmail.com
-description: # >- # this means to ignore newlines until "baseurl:"
+description: >- # this means to ignore newlines until "baseurl:"
+Project for Honors English 10 @ Briar Woods High School.
 baseurl: "/multi-genre-project" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
