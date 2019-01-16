@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Works Cited"
-date: 2019-01-17
+date: 2019-01-06
 permalink: /works-cited/
 ---
 
