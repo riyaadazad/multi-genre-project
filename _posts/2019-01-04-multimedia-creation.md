@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Multimedia Creation"
+title: "Intelligent Artificially"
 date: 2019-01-04
 permalink: /multimedia-creation/
 ---
