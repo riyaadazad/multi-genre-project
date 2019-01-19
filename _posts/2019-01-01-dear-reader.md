@@ -13,4 +13,6 @@ When my class analyzed *Frankenstein*, we brainstormed many ideas that could be 
 
 As you can see by the medium that I presented this "Dear Reader" letter, and the entirety of my project, I am interested in the minutiae of contemporary technology (you can learn more about me at my personal website, [riyaadazad.github.io](https://riyaadazad.github.io)).  
 
-Eventually, I realized that artificial intelligence can in fact be human, but most of today's society is afraid to trust or accept that it is like that, and therefore we resort to raising our status and lowering the status of artificial intelligence.
+Eventually, I realized that artificial intelligence can in fact be human, but most of today's society is afraid to trust or accept that it is like that.
+
+In order to reflect this ultimatum, I created four materials, each a different genre. To represent the fictional genre, I created a diary entry for Apple's popular artificially-intelligent assistant Siri. For my non-fiction creation, I made a news article on the now-infamous Amazon Alexa. For the multimedia aspect of my project, I created a video montage promoting the positive aspect of artificial intelligence. And finally, I made a visual advertisement based on Microsoft Cortana. 
