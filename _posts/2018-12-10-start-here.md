@@ -16,8 +16,6 @@ My response (and theme statement) is that **Artificial Intelligence Can Be Human
 
 Note: Artificial intelligence is usually abbreviated as *AI* (pronounced "ay"-"eye"). These terms will be used interchangeably throughout the site.
 
-![Human Hand Greeting Robotic Hand](https://cdn.pixabay.com/photo/2016/08/05/09/28/hand-1571852_960_720.jpg)
-
 > [Side Note: Anything formatted like this is a block quotation.]
 
 In addition to blog posts, this project consists of two main parts.
