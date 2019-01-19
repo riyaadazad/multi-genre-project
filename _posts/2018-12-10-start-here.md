@@ -45,7 +45,7 @@ In the second section of posts, I will be preparing a "Dear Reader" letter, amon
 4. [Sit](#)
 5. [Amet](#) -->
 
-This site is built using the super simple static website and blog site generator [Jekyll](https://jekyllrb.com/) and is hosted for free using [GitHub Pages](https://pages.github.com/). The source code for this website is completely open and lives at [this GiHub repository](https://github.com/riyaadazad/multi-genre-project).
+This site is built using the super simple static website and blog site generator [Jekyll](https://jekyllrb.com/) and is hosted for free using [GitHub Pages](https://pages.github.com/). The source code for this website is completely open and lives at [this GiHub repository](https://github.com/riyaadazad/multi-genre-project). And just a reminder that, unless otherwise specified, all of the images on this site have been dedicated to the usage of the public domain by allowing noncommercial reuse. 
 
 I hope that you enjoy this project as much as I have enjoyed designing and developing it.
 
