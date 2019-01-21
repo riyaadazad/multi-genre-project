@@ -27,7 +27,7 @@ In the first section of posts, I will be answering three questions about each te
 3. How did the creator of the text get these ideas across to the reader or viewer? *Here you will comment on how the creator of the piece may have used, for example, literary, visual, or dramatic techniques to get his/her point across.*
 
 
-Quick jump to the first part of posts:
+Quick jump to the first part of posts (you can also use the previous/next post navigation below):
 1. Fiction 1: [Frankenstein](/multi-genre-project/frankenstein/)
 2. Fiction 2: [Poem: 'Artificial Intelligence'](/multi-genre-project/ai-poem/)
 3. Nonfiction: [Speech: 'A Matter of Trust'](/multi-genre-project/ai-matter-trust/)
@@ -36,16 +36,9 @@ Quick jump to the first part of posts:
 6. Multimedia 3: [Watson at Work: Engineering](/multi-genre-project/watson-work-engineering/)
 7. Visual: [IBM Watson: Smarter Planet](/multi-genre-project/smarter-planet/)
 
-In the second section of posts, I will be preparing a "Dear Reader" letter, among other materials that are coming soon!
+For the second section of posts, I have prepared a "[Dear Reader](/multi-genre-project/dear-reader/)" letter, [diary entry](/multi-genre-project/fiction-creation/), [news article](/multi-genre-project/nonfiction-creation/), [video montage](/multi-genre-project/multimedia-creation/), and a [visual ad](/multi-genre-project/visual-creation).
 
-<!-- Quick jump to the second part of posts:
-1. [Lorem](#)
-2. [Ipsum](#)
-3. [Dolor](#)
-4. [Sit](#)
-5. [Amet](#) -->
-
-This site is built using the super simple static website and blog site generator [Jekyll](https://jekyllrb.com/) and is hosted for free using [GitHub Pages](https://pages.github.com/). The source code for this website is completely open and lives at [this GiHub repository](https://github.com/riyaadazad/multi-genre-project). And just a reminder that, unless otherwise specified, all of the images on this site have been dedicated to the usage of the public domain by allowing noncommercial reuse. 
+This site is built using the super simple static website and blog site generator [Jekyll](https://jekyllrb.com/) and is hosted for free using [GitHub Pages](https://pages.github.com/). The source code for this website is completely open and lives at [this GiHub repository](https://github.com/riyaadazad/multi-genre-project). And just a reminder that, unless otherwise specified, all of the images on this site have been dedicated to the usage of the public domain by allowing noncommercial reuse.
 
 I hope that you enjoy this project as much as I have enjoyed designing and developing it.
 
