@@ -36,7 +36,7 @@ Quick jump to the first part of posts (you can also use the previous/next post n
 6. Multimedia 3: [Watson at Work: Engineering](/multi-genre-project/watson-work-engineering)
 7. Visual: [IBM Watson: Smarter Planet](/multi-genre-project/smarter-planet)
 
-For the second section of posts, I have prepared a "[Dear Reader](/multi-genre-project/dear-reader)" letter, [diary entry](/multi-genre-project/fiction-creation), [news article](/multi-genre-project/nonfiction-creation), [video montage](/multi-genre-project/multimedia-creation), and a [visual ad](/multi-genre-project/visual-creation).
+For the second section of posts, I have prepared a "[Dear Reader](/multi-genre-project/dear-reader)" letter, which outlines my four creations: A [diary entry](/multi-genre-project/fiction-creation), [editorial](/multi-genre-project/nonfiction-creation), [video montage](/multi-genre-project/multimedia-creation), and a [visual ad](/multi-genre-project/visual-creation).
 
 This site is built using the super simple static website and blog site generator [Jekyll](https://jekyllrb.com/) and is hosted for free using [GitHub Pages](https://pages.github.com/). The source code for this website is completely open and lives at [this GiHub repository](https://github.com/riyaadazad/multi-genre-project). And just a reminder that, unless otherwise specified, all of the images on this site have been dedicated to the usage of the public domain by allowing noncommercial reuse.
 
