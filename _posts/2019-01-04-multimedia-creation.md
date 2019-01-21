@@ -10,3 +10,4 @@ permalink: /multimedia-creation/
 ___
 
 # Author's Note
+I created catchy music for a video promoting the positive aspect of artificial intelligence. 
