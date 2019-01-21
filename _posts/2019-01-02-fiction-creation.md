@@ -30,5 +30,5 @@ Siri is still happily helping her owner.
 
 ___
 
-# Background
+# Author's Note
 This diary entry from the point of view of Apple's Siri virtual assistant is attempting to demonstrate how artificial intelligence could think or process information, and even though they may not express or process emotions in the same exact manner as humans, they are still human, in the sense of the word. This diary entry is essentially trying to show that Siri has feelings.
