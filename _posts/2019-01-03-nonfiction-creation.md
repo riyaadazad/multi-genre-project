@@ -15,4 +15,5 @@ Ultimately, all of these platforms started with a lot of popularity, then gradua
 
 ___
 
-# Author's Note 
+# Author's Note
+I used an editorial to explain my stance that Google Assistant can be a revolutionary virtual assistant/artificial intelligence.
