@@ -5,11 +5,6 @@ date: 2019-01-04
 permalink: /multimedia-creation/
 ---
 
-<video controls>
-  <source src="Intelligent_Artificially.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-
 ___
 
 # Author's Note
